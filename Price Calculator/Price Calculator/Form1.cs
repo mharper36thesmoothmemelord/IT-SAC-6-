@@ -15,5 +15,7 @@ namespace Price_Calculator
         {
             InitializeComponent();
         }
+
+        
     }
 }
