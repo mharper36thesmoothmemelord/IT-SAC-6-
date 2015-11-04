@@ -7,7 +7,8 @@ background-size:cover;
 
 
 #header {
-	
+    margin: 10px;
+    background-color: #8A5C2E;
     border-style:solid;
     border-width:5px;
     border-color:black;
@@ -20,8 +21,18 @@ background-size:cover;
         
 }
 
+#img1 {
+    position: absolute;
+    top: 500px;
+    left: 10px;
+    
+
+}
+
 
 #nav {
+    margin: 10px;
+    background-color: #8A5C2E;
     line-height:30px;
     border-style:solid;
     border-width:4px;
@@ -32,18 +43,18 @@ background-size:cover;
     padding:5px; 
 }
 #Overview {
- 
-    width:350px;
+    border-style:solid;
+    margin: 10px;
     text-align: center;
-    body-align: center;
+    width:500px;
     float:left;
-    padding:10px;
-    height:40px;
-    background-color: #FFDEAD;
+    padding:5px;
+    height:300px;
+    background-color: #8A5C2E;
     font-size: 120%;
-    background-color: #FFDEAD;
-
+    background-color: #8A5C2E;
 }
+
 
 #P {
  
@@ -53,9 +64,9 @@ background-size:cover;
     float:left;
     padding:10px;
     height:40px;
-    background-color: #FFDEAD;
+    background-color: #8A5C2E;
     font-size: 120%;
-    background-color: #FFDEAD;
+    background-color: #8A5C2E;
 
 }
 
