@@ -1,7 +1,17 @@
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.exe
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.pdb
+<<<<<<< HEAD
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\bin\Debug\Price Calculator.exe
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\bin\Debug\Price Calculator.pdb
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Calculator.resources
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Properties.Resources.resources
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.csproj.GenerateResource.Cache
+=======
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.exe
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.pdb
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\bin\Debug\Price Calculator.exe
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\bin\Debug\Price Calculator.pdb
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Calculator.resources
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Properties.Resources.resources
+C:\Users\cdingley17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.csproj.GenerateResource.Cache
+>>>>>>> origin/master
