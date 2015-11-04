@@ -1,0 +1,2 @@
+C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.exe
+C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.pdb

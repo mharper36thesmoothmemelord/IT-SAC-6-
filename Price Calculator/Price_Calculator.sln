@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price Calculator", "Price Calculator\Price Calculator.csproj", "{0B179602-F0B6-48C5-A120-7B9A67E4270E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Price_Calculator", "Price Calculator\Price_Calculator.csproj", "{0B179602-F0B6-48C5-A120-7B9A67E4270E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

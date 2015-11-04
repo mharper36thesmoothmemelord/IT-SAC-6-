@@ -1,7 +1,8 @@
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\bin\Debug\Price Calculator.exe
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\bin\Debug\Price Calculator.pdb
-C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Form1.resources
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Properties.Resources.resources
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.csproj.GenerateResource.Cache
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.exe
 C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.pdb
+C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price Calculator.csprojResolveAssemblyReference.cache
+C:\Users\mharper17\Documents\GitHub\IT-SAC-6-\Price Calculator\Price Calculator\obj\x86\Debug\Price_Calculator.Calculator.resources
